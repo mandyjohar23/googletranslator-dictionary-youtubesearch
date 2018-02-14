@@ -1,0 +1,48 @@
+{
+ "enable_e10s": false, 
+ "is-sdk-bundled": true, 
+ "jetpackID": "jid0-vdFcyoyoFDhN1easzeLMR6eNEEw@jetpack", 
+ "loader": "addon-sdk/lib/sdk/loader/cuddlefish.js", 
+ "main": "main", 
+ "mainPath": "googletranslator-dictionary-youtubesearch/main", 
+ "manifest": {
+  "googletranslator-dictionary-youtubesearch/main": {
+   "docsSHA256": null, 
+   "jsSHA256": "c8823a17894a79e92a4ee4bf086643d9b0d85a13d983eb746f8a5b52de02cadd", 
+   "moduleName": "main", 
+   "packageName": "googletranslator-dictionary-youtubesearch", 
+   "requirements": {
+    "context-menu": "sdk/context-menu", 
+    "sdk/tabs": "sdk/tabs", 
+    "selection": "sdk/selection"
+   }, 
+   "sectionName": "lib"
+  }
+ }, 
+ "metadata": {
+  "addon-sdk": {
+   "description": "Add-on development made easy.", 
+   "keywords": [
+    "javascript", 
+    "engine", 
+    "addon", 
+    "extension", 
+    "xulrunner", 
+    "firefox", 
+    "browser"
+   ], 
+   "license": "MPL 2.0", 
+   "name": "addon-sdk"
+  }, 
+  "googletranslator-dictionary-youtubesearch": {
+   "author": "mandyjohar", 
+   "main": "main", 
+   "name": "googletranslator-dictionary-youtubesearch", 
+   "version": "1.4"
+  }
+ }, 
+ "name": "googletranslator-dictionary-youtubesearch", 
+ "sdkVersion": "1.14", 
+ "staticArgs": {}, 
+ "verbose": false
+}
